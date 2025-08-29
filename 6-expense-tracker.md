@@ -30,7 +30,7 @@ Receive the list of items and the delete handler via props from `BudgetTracker` 
 2. Click **Add** to add it to the table.
 3. View all budget items in the table below. Use the **Delete** button to remove an expense.
 
-<img src="./src/assets/screenshot.png" alt="Budget tracker" style="width: 70%" />
+<img src="./assets/screenshot.png" alt="Budget tracker" style="width: 70%" />
 
 ### Bonus
 - Display the current saldo (total balance) on the page, calculated as the sum of all budget item amounts.
@@ -46,7 +46,7 @@ First, create a new branch `step2`.
 - Replace the `input` and `button` elements in the Expense Tracker with suitable Material UI components.
 - Input elements and button should be horizontally aligned and add proper spacing and margins between each component to ensure user-friendly ui.
 
-<img src="./src/assets/screenshot_materialui.png" alt="Material UI components" style="width: 70%" />
+<img src="./assets/screenshot_materialui.png" alt="Material UI components" style="width: 70%" />
 
 **Date Picker:**
 - Replace the current date input field in the Expense Tracker with the MUI-X Date Picker (https://mui.com/x/react-date-pickers/date-picker/).
@@ -63,7 +63,7 @@ First, create a new branch `step3`.
 - Configure appropriate columns, such as Title, Amount, Date, and any other relevant fields.
 - Enable useful features like sorting, filtering, and pagination for better user experience.
 
-<img src="./src/assets/screenshot_muigrid.png" alt="MUI-X data grid" style="width: 70%" />
+<img src="./assets/screenshot_muigrid.png" alt="MUI-X data grid" style="width: 70%" />
 
 ### Bonus
 - Show the amount in 🔴 red color for expense items and 🟢 green color for income items.
@@ -93,12 +93,12 @@ Implement routing that allows the user to navigate between the `Home`, `BudgetTr
 #### Examples
 Home screen:
 
-<img src="./src/assets/budget_home.png" alt="Home screen" style="width: 50%" />
+<img src="./assets/budget_home.png" alt="Home screen" style="width: 50%" />
 
 Budget screen:
 
-<img src="./src/assets/budget_budget.png" alt="Budget screen" style="width: 50%" />
+<img src="./assets/budget_budget.png" alt="Budget screen" style="width: 50%" />
 
 Statistics screen:
 
-<img src="./src/assets/budget_statistics.png" alt="Statistics screen" style="width: 50%" />
+<img src="./assets/budget_statistics.png" alt="Statistics screen" style="width: 50%" />
