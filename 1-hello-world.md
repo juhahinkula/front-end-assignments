@@ -1,5 +1,3 @@
-[Suomenkielinen tehtävänanto (1-hello-world.fi.md)](1-hello-world.fi.md)
-
 # Hello World (1 point)
 
 ### 1. Create a component
@@ -31,3 +29,4 @@ For example, if you pass Alex, the componen display Hello Alex!.
 > ```
 > npm run lint
 > ```
+
